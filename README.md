@@ -91,6 +91,8 @@
 - Dockerfile 실행하기
 <img alt="image" src="https://github.com/user-attachments/assets/6b4971df-07ec-47d3-9ae3-aea425c9d34c" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/3c76aa88-b959-4593-babf-2288bfbcc03b" />
+
 
 
 
