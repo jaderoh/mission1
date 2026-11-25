@@ -43,13 +43,13 @@ Git 사용자 정보 및 기본 브랜치 설정
 
 코드 주소를 복사합니다.
 
-<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/2b3bf178-a754-4e6d-bc73-2c371cb21a9e" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/2b3bf178-a754-4e6d-bc73-2c371cb21a9e" />
 
 Git을 GitHub에 연동합니다.
 
 GitHub에 코드를 업데이트 합니다.
 
-<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/8b02130a-278b-4164-9fca-b768a75da00e" />
+<img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/8b02130a-278b-4164-9fca-b768a75da00e" />
 
 * 민감한 개인정보는 가렸습니다.
 
