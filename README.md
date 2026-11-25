@@ -93,6 +93,11 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/3c76aa88-b959-4593-babf-2288bfbcc03b" />
 
+<포트 매핑>
+
+<img alt="image" src="https://github.com/user-attachments/assets/c3d22112-7f66-4365-b886-5d94ceab9dc9" />
+
+
 
 
 
