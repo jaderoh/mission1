@@ -92,6 +92,11 @@ GitHub에 코드를 업데이트 합니다.
 
 * 민감한 개인정보는 가렸습니다.
 
+- Git Log
+
+<img alt="image" src="https://github.com/user-attachments/assets/1e442a38-b211-4fc3-b2da-4ece5da8751d" />
+
+
 ## 절대 경로와 상대 경로의 차이
 
 - 절대 경로: 경남 창원시 마산회원구 합성동 합성로 00
