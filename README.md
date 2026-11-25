@@ -45,6 +45,8 @@ cd dir      # 폴더 이동
 
 <img alt="image" src="https://github.com/user-attachments/assets/a62e46bc-f68f-4ec7-bfc4-5843369fbc51" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/4f5ca7ab-1f35-451f-aad0-52d17e114d36" />
+
 
 
 ## Git과 GitHub의 연동
