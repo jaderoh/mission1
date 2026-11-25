@@ -78,8 +78,6 @@ r / w / x의 의미
 
 ## 검증방법(어떤 명령으로 무엇을 확인했는지) + 결과 위치 링크
 
-## 트러블슈팅 2건 이상(문제 - 원인 가설 - 확인 - 해결/대안) 
-
 ##터미널 조작 로그 기록
 
  - ls          # 파일 목록 (ls -l 은 상세, ls -a 는 숨김 파일 포함)
@@ -183,6 +181,13 @@ GitHub에 코드를 업데이트 합니다.
 
 <img alt="image" src="https://github.com/user-attachments/assets/1e442a38-b211-4fc3-b2da-4ece5da8751d" />
 
+## 트러블슈팅 2건 이상(문제 - 원인 가설 - 확인 - 해결/대안) 
+
+ - 포트 매핑에서 오류가 있었습니다. 원래 돌아가던 이미지를 지우고 다시 dockerfile을 빌드하여 포트매핑을 하니 정상적으로 실행되었습니다.
+ - http://localhost:8081/
+<img alt="image" src="https://github.com/user-attachments/assets/e4fe6bda-41a9-4e9f-80c4-ed5448d32584" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/ea3fcb00-284f-4ed6-aa68-41b0a4aeb23e" />
 
 
 
