@@ -73,6 +73,22 @@
 <도커 삭제>
 <img alt="image" src="https://github.com/user-attachments/assets/00428fe0-bdf5-415e-8e7a-d353e7553e94" />
 
+<Dockerfile 빌드/실행>
+
+- app.py
+<img alt="image" src="https://github.com/user-attachments/assets/da86c916-7b4c-4beb-b56a-00dc597ebba1" />
+
+- requirements.txt
+<img width="143" height="37" alt="image" src="https://github.com/user-attachments/assets/f8400182-637b-48c2-ad31-453f627c674a" />
+
+- Dockerfile
+<img alt="image" src="https://github.com/user-attachments/assets/afcc1c0d-50ac-479b-9f26-26e8f0283313" />
+
+
+- 터미널
+<img alt="image" src="https://github.com/user-attachments/assets/fd2beaf2-28ce-4c9a-b3b3-f7bd16a1c534" />
+
+
 
 ## Git과 GitHub의 연동
 
