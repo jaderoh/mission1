@@ -70,6 +70,8 @@
 <img alt="image" src="https://github.com/user-attachments/assets/98ee8c96-1a27-434e-a244-c290717319df" />
 
 
+<도커 삭제>
+<img alt="image" src="https://github.com/user-attachments/assets/00428fe0-bdf5-415e-8e7a-d353e7553e94" />
 
 
 ## Git과 GitHub의 연동
