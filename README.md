@@ -165,6 +165,9 @@ r / w / x의 의미
 <img alt="image" src="https://github.com/user-attachments/assets/38ef7d74-20ee-4e41-8a03-404ffbc2cd64" />
 <img alt="image" src="https://github.com/user-attachments/assets/ec5bda8c-ec61-4f8c-bc5c-2eac8e91e52c" />
 
+## 볼륨 영속성
+<img alt="image" src="https://github.com/user-attachments/assets/38969738-4f70-4d0c-926a-8b969b758bf4" />
+
 
 
 ## Git과 GitHub의 연동
