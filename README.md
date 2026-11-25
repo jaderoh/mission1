@@ -59,6 +59,9 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/4f5ca7ab-1f35-451f-aad0-52d17e114d36" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/f6db5b13-0f8d-4529-a126-178bfa924571" />
+
+
 
 
 ## Git과 GitHub의 연동
