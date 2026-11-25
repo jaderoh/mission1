@@ -20,19 +20,19 @@ cd dir      # 폴더 이동
 
 파일 현재 위치 확인 및 파일 목록
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/c2f26652-bf6c-484c-a0c9-b1dadcd3a68d" />
+<img alt="image" src="https://github.com/user-attachments/assets/c2f26652-bf6c-484c-a0c9-b1dadcd3a68d" />
 
 폴더 이동 및 폴더 생성
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/87a9f9e2-68c7-488e-ac08-783c8f37a1ff" />
+<img alt="image" src="https://github.com/user-attachments/assets/87a9f9e2-68c7-488e-ac08-783c8f37a1ff" />
 
 파일 만들기 및 내용 추가
 
-<img width="500" height="80" alt="image" src="https://github.com/user-attachments/assets/9793f2c9-1170-492b-9a62-0f4621baf584" />
+<img alt="image" src="https://github.com/user-attachments/assets/9793f2c9-1170-492b-9a62-0f4621baf584" />
 
 파일 복사
 
-<img width="799" height="398" alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
+<img alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
 
 ## Docker (도커)의 개념
 
@@ -53,17 +53,17 @@ cd dir      # 폴더 이동
 
 Git 사용자 정보 및 기본 브랜치 설정
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c4992641-af91-4381-92b4-51785e30a27d" />
+<img alt="image" src="https://github.com/user-attachments/assets/c4992641-af91-4381-92b4-51785e30a27d" />
 
 코드 주소를 복사합니다.
 
-<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/2b3bf178-a754-4e6d-bc73-2c371cb21a9e" />
+<img alt="image" src="https://github.com/user-attachments/assets/2b3bf178-a754-4e6d-bc73-2c371cb21a9e" />
 
 Git을 GitHub에 연동합니다.
 
 GitHub에 코드를 업데이트 합니다.
 
-<img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/8b02130a-278b-4164-9fca-b768a75da00e" />
+<img alt="image" src="https://github.com/user-attachments/assets/8b02130a-278b-4164-9fca-b768a75da00e" />
 
 * 민감한 개인정보는 가렸습니다.
 
