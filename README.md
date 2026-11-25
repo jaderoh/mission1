@@ -79,7 +79,7 @@
 <img alt="image" src="https://github.com/user-attachments/assets/da86c916-7b4c-4beb-b56a-00dc597ebba1" />
 
 - requirements.txt
-<img width="143" height="37" alt="image" src="https://github.com/user-attachments/assets/f8400182-637b-48c2-ad31-453f627c674a" />
+<img alt="image" src="https://github.com/user-attachments/assets/f8400182-637b-48c2-ad31-453f627c674a" />
 
 - Dockerfile
 <img alt="image" src="https://github.com/user-attachments/assets/afcc1c0d-50ac-479b-9f26-26e8f0283313" />
