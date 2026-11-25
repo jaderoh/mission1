@@ -170,6 +170,7 @@ r / w / x의 의미
 - 볼륨(Volume)은 Docker가 관리하는 저장 공간이다. 컨테이너를 삭제해도 볼륨 안의 데이터는 남기 때문에, DB처럼 사라지면 안 되는 데이터를 보관할 때 쓴다. "컨테이너를 지워도 데이터는 살아있다"
 
 <img alt="image" src="https://github.com/user-attachments/assets/38969738-4f70-4d0c-926a-8b969b758bf4" />
+<img alt="image" src="https://github.com/user-attachments/assets/4996a007-0ac5-4f9b-b216-9b2214f346dc" />
 
 
 
