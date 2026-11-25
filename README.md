@@ -35,5 +35,16 @@ cd dir      # 폴더 이동
 <img width="799" height="398" alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
 
 
+## Git과 GitHub의 연동
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c4992641-af91-4381-92b4-51785e30a27d" />
+코드 주소를 복사합니다.
+
+<img width="1176" height="598" alt="image" src="https://github.com/user-attachments/assets/2b3bf178-a754-4e6d-bc73-2c371cb21a9e" />
+Git을 GitHub에 연동합니다.
+
+
+
+
 
 
