@@ -30,5 +30,10 @@ cd dir      # 폴더 이동
 
 <img width="500" height="80" alt="image" src="https://github.com/user-attachments/assets/9793f2c9-1170-492b-9a62-0f4621baf584" />
 
+파일 복사
+
+<img width="799" height="398" alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
+
+
 
 
