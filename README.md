@@ -18,8 +18,12 @@ pwd         # 현재 위치 확인
 mkdir dir   # 폴더 생성
 cd dir      # 폴더 이동
 
+파일 현재 위치 확인 및 파일 목록
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c2f26652-bf6c-484c-a0c9-b1dadcd3a68d" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/87a9f9e2-68c7-488e-ac08-783c8f37a1ff" />
+폴더 이동 및 폴더 생성
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/87a9f9e2-68c7-488e-ac08-783c8f37a1ff" />
+파일 만들기 및 내용 추가
+<img width="500" height="80" alt="image" src="https://github.com/user-attachments/assets/9793f2c9-1170-492b-9a62-0f4621baf584" />
 
 
 
