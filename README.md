@@ -88,6 +88,10 @@
 - 터미널
 <img alt="image" src="https://github.com/user-attachments/assets/fd2beaf2-28ce-4c9a-b3b3-f7bd16a1c534" />
 
+- Dockerfile 실행하기
+<img alt="image" src="https://github.com/user-attachments/assets/6b4971df-07ec-47d3-9ae3-aea425c9d34c" />
+
+
 
 
 ## Git과 GitHub의 연동
