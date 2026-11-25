@@ -160,6 +160,8 @@ r / w / x의 의미
 
 ## 바인드 마운트 반영
 
+- 바인드 마운트는 내 PC의 폴더를 컨테이너 안에 그대로 연결하는 방식. 파일을 PC에서 수정하면 컨테이너에 즉시 반영되고, 반대로 컨테이너가 만든 파일도 PC에 남는다.
+
 <img alt="image" src="https://github.com/user-attachments/assets/38ef7d74-20ee-4e41-8a03-404ffbc2cd64" />
 <img alt="image" src="https://github.com/user-attachments/assets/ec5bda8c-ec61-4f8c-bc5c-2eac8e91e52c" />
 
