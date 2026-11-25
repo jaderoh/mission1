@@ -34,6 +34,18 @@ cd dir      # 폴더 이동
 
 <img width="799" height="398" alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
 
+## Docker (도커)의 개념
+
+- Docker란 항구 컨테이너에 비유할 수 있습니다.
+- 프로그램과 프로그램이 필요한 모든 것을 하나의 박스에 담아서, 어떤 컴퓨터에서든 똑같이 실행되게 해주는 도구입니다.
+- (1) Image (이미지) : 설계도
+- (2) Container (컨테이너) : 실제로 실행 중인 것
+- (3) Dockerfile (레시피) : 이미지를 만들기 위한 레시피
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/a62e46bc-f68f-4ec7-bfc4-5843369fbc51" />
+
+
 
 ## Git과 GitHub의 연동
 
