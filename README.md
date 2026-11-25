@@ -158,6 +158,12 @@ r / w / x의 의미
 <img alt="image" src="https://github.com/user-attachments/assets/ea3fcb00-284f-4ed6-aa68-41b0a4aeb23e" />
 
 
+## 바인드 마운트 반영
+
+<img alt="image" src="https://github.com/user-attachments/assets/38ef7d74-20ee-4e41-8a03-404ffbc2cd64" />
+<img alt="image" src="https://github.com/user-attachments/assets/ec5bda8c-ec61-4f8c-bc5c-2eac8e91e52c" />
+
+
 
 ## Git과 GitHub의 연동
 
