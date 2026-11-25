@@ -61,6 +61,13 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/f6db5b13-0f8d-4529-a126-178bfa924571" />
 
+- 이미지 다운로드
+
+<img alt="image" src="https://github.com/user-attachments/assets/86777bb2-c369-4544-be0d-1b3c3c08c240" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/6276a8d2-3e3e-44d4-8ff0-92e3247d195c" />
+
+
 
 
 
