@@ -72,7 +72,7 @@ r / w / x의 의미
  - [O] hello-world 실행
  - [O] Dockerfile 빌드/실행
  - [O] 포트 매핑 접속(2회)
- - 바인드 마운트 반영
+ - [O] 바인드 마운트 반영
  - 볼륨 영속성
  - [O] Git 설정 + VSCode GitHub 연동
 
