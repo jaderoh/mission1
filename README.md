@@ -4,6 +4,9 @@
 내 컴퓨터에 개발자용 '작업실' 꾸미기
 
 ## 실행환경
+- Windows
+- Docker version 29.9.2
+- git version 2.56.0.windows.4
 
 ## 수행 항목 체크리스트
  - [O] 터미널 기본 조작 및 폴더 구성
