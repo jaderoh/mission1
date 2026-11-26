@@ -99,6 +99,14 @@ r / w / x의 의미
 
 <img alt="image" src="https://github.com/user-attachments/assets/87a9f9e2-68c7-488e-ac08-783c8f37a1ff" />
 
+폴더 생성 및 삭제
+
+<img alt="image" src="https://github.com/user-attachments/assets/5ec98814-f9b7-4911-99ab-900ecd0bf487" />
+<img alt="image" src="https://github.com/user-attachments/assets/83f08237-be52-42c7-b6dc-7e50e6802242" />
+<img alt="image" src="https://github.com/user-attachments/assets/4fe0d33e-2a1c-4626-bd60-abb6a9cdeeca" />
+
+
+
 파일 만들기 및 내용 추가
 
 <img alt="image" src="https://github.com/user-attachments/assets/9793f2c9-1170-492b-9a62-0f4621baf584" />
