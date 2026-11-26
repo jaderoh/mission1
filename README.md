@@ -42,6 +42,9 @@ r / w / x의 의미
 - (2) Container (컨테이너) : 실제로 실행 중인 것
 - (3) Dockerfile (레시피) : 이미지를 만들기 위한 레시피
 
+<img alt="image" src="https://github.com/user-attachments/assets/a217ec90-7952-422e-9d77-b9b3ef4852b1" />
+
+
 ## (4) 포트 매핑이 필요한 이유
 
 - 포트 매핑은 호스트의 포트와 컨테이너의 포트를 연결해서 바깥에서 컨테이너 안의 서비스에 접속할 수 있게 해 주는 설정이다.
@@ -59,6 +62,9 @@ r / w / x의 의미
 - 볼륨 vs 바인드 마운트 :
 - 볼륨: DB 데이터, 운영 환경의 영속 데이터 (Docker가 경로와 권한을 관리해 줌)
 - 바인드 마운트: 개발 중 소스 코드 공유, 호스트의 설정 파일을 컨테이너에 주입할 때
+
+<img alt="image" src="https://github.com/user-attachments/assets/ae8eafcf-c918-4615-ab47-e694cea19f2c" />
+
 
 ## (6) Git과 GitHub의 역할 차이 (로컬 버전관리 vs 원격 협업 플랫폼)
 
