@@ -115,6 +115,12 @@ r / w / x의 의미
 
 <img alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
 
+## 파일 권한 변경
+- 일반 윈도우 터미널(CMD/PowerShell)에서는 chmod 명령어가 존재하지 않아서, 대신 icacls 명령어를 쓴다.
+- WSL(Windows Subsystem for Linux)을 설치하면 윈도우 안에서 진짜 리눅스 환경을 쓸 수 있고, chmod 명령어도 쓸 수 있다.
+<img alt="image" src="https://github.com/user-attachments/assets/e47dce81-f257-4aa5-9c59-310a158427a4" />
+
+
 ## Docker (도커)
 
 - Docker란 항구 컨테이너에 비유할 수 있습니다.
@@ -207,13 +213,21 @@ GitHub에 코드를 업데이트 합니다.
 
 ## 트러블슈팅 2건 이상(문제 - 원인 가설 - 확인 - 해결/대안) 
 
- - 포트 매핑에서 오류가 있었다.
+(1) 포트 매핑에서의 오류
  - 가설 : 다른 이미지가 돌아가고 있기 때문에 오류가 나는 것이 아닐까?
  - 확인 : 원래 돌아가던 이미지를 지우고 다시 dockerfile을 빌드하여 포트매핑을 하니 정상적으로 실행되었다.
  - 증거 : http://localhost:8081/
 <img alt="image" src="https://github.com/user-attachments/assets/e4fe6bda-41a9-4e9f-80c4-ed5448d32584" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/ea3fcb00-284f-4ed6-aa68-41b0a4aeb23e" />
+
+(2) 권한변경 (chmod 명령어)가 가 윈도우에서 동작하지 않는 문제
+
+- 가설 : 윈도우에서는 권한변경 chmod 명령어가 동작하지 않고, 리눅스에서만 동작한다.
+- 확인 : WSL (Windows Subsystem for Linux)을 설치하였다.
+- 증거 : 
+
+<img alt="image" src="https://github.com/user-attachments/assets/e47dce81-f257-4aa5-9c59-310a158427a4" />
 
 
 
