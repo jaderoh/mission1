@@ -115,6 +115,17 @@ r / w / x의 의미
 
 <img alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
 
+##리눅스 버젼
+
+- 파일 생성, 글 추가
+
+<img alt="image" src="https://github.com/user-attachments/assets/4e0b519f-16d2-4263-be7b-fc26840faad0" />
+
+- less 스크롤하면서 보기
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcf579f5-12cb-45ed-9a1f-acbb107d802f" />
+
+
 ## 파일 권한 변경
 - 일반 윈도우 터미널(CMD/PowerShell)에서는 chmod 명령어가 존재하지 않아서, 대신 icacls 명령어를 쓴다.
 - WSL(Windows Subsystem for Linux)을 설치하면 윈도우 안에서 진짜 리눅스 환경을 쓸 수 있고, chmod 명령어도 쓸 수 있다.
