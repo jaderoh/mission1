@@ -151,6 +151,11 @@ r / w / x의 의미
 - (2) Container (컨테이너) : 실제로 실행 중인 것
 - (3) Dockerfile (레시피) : 이미지를 만들기 위한 레시피
 
+- 도커 버젼 확인
+<img alt="image" src="https://github.com/user-attachments/assets/6e52b158-032c-46cc-9116-d9ac35c8b952" />
+
+- 도커 hello-world
+
 <img alt="image" src="https://github.com/user-attachments/assets/4f5ca7ab-1f35-451f-aad0-52d17e114d36" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/f6db5b13-0f8d-4529-a126-178bfa924571" />
