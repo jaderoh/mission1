@@ -115,7 +115,7 @@ r / w / x의 의미
 
 <img alt="image" src="https://github.com/user-attachments/assets/f5ee65a1-0005-44e6-8d42-b8011211420f" />
 
-##리눅스 버젼
+## 리눅스 버젼
 
 - 파일 생성, 글 추가
 
@@ -124,6 +124,17 @@ r / w / x의 의미
 - less 스크롤하면서 보기
 
 <img alt="image" src="https://github.com/user-attachments/assets/bcf579f5-12cb-45ed-9a1f-acbb107d802f" />
+
+- 복사
+
+<img alt="image" src="https://github.com/user-attachments/assets/52baf41c-0d9b-4efa-8e6e-f3387edf5c91" />
+
+- 이름 변경
+<img alt="image" src="https://github.com/user-attachments/assets/dec0aea7-3a51-414d-a07d-eea61049b854" />
+<img alt="image" src="https://github.com/user-attachments/assets/ab341ac4-c678-436b-8292-a60a5769ded2" />
+
+- 삭제
+<img alt="image" src="https://github.com/user-attachments/assets/45672e32-b60e-42cf-9b5d-c9ab7535b27e" />
 
 
 ## 파일 권한 변경
